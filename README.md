@@ -2,7 +2,7 @@
 
 ## Description
 
-The purpose of this gist was to learn the components of a regex and their meanings.
+The purpose of this project was to learn the components of a regex and their meanings.
 
 ## License
 
